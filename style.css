@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+}
+.cover{
+ background-color: #1E1E1E;
+ height: 100vh;
+ width: 50%;
+}
+.paper{
+    background-image: url("./assets/paper.png");
+    width: 50vw;
+    height: 20vh;
+    background-position: center;
+    border: solid yellow 2px;
+}
+.logon{
+width: 50%;
+height: 100vh;
+ background-color: #EFD0A9;
+}
